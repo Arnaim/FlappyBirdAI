@@ -1,0 +1,11 @@
+{
+    "best_fitness": 435.0000000000185,
+    "evaluation_average": 33.0,
+    "difficulty_level": 6,
+    "difficulty": {
+        "speed": 8.0,
+        "gap": 140,
+        "spawn_interval": 80,
+        "max_gap_movement": 135
+    }
+}
