@@ -31,7 +31,7 @@ GROUND_Y = HEIGHT - GROUND_HEIGHT
 BIRD_X = 100
 BIRD_Y = 300
 
-JUMP_THRESHOLD = 0.65
+JUMP_THRESHOLD = 0.5
 TEST_RUNS = 20
 TEST_SEEDS = range(2000, 2020)
 
@@ -208,7 +208,7 @@ def main():
     pipe_image = load_image(ASSETS_DIR / "pipe.png")
 
     print("Model loaded.")
-    print("Difficulty level:", metadata["difficulty_level"] + 1)
+    print("Difficulty level: 1 (Fixed baseline)")
     print("Testing on 20 unseen seeds...\n")
 
     results = []

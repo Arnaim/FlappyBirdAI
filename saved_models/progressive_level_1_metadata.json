@@ -1,0 +1,38 @@
+{
+    "training_type": "progressive",
+    "level": 1,
+    "generation": 2,
+    "best_fitness": 520.0000000000252,
+    "evaluation_average": 50.0,
+    "evaluation_scores": [
+        50,
+        50,
+        50,
+        51,
+        50,
+        50,
+        49,
+        51,
+        50,
+        49
+    ],
+    "evaluation_seeds": [
+        10000,
+        10001,
+        10002,
+        10003,
+        10004,
+        10005,
+        10006,
+        10007,
+        10008,
+        10009
+    ],
+    "difficulty": {
+        "speed": 5.0,
+        "gap": 165,
+        "spawn_interval": 52,
+        "max_gap_movement": 70,
+        "spawn_jitter": 0.2
+    }
+}

@@ -3,3 +3,5 @@ neat-python
 numpy
 matplotlib
 Pillow
+pandas
+ipykernel
