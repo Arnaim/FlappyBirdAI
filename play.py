@@ -330,7 +330,10 @@ def main():
             True,
             (255, 255, 255)
         )
-
+        print("WIN:", type(WIN), WIN.get_size())
+        print("FONT:", type(FONT))
+        print("STATUS:", type(status))
+        
         WIN.blit(status, (20, 20))
 
         pygame.display.update()

@@ -4,6 +4,12 @@ An AI-powered Flappy Bird implementation where neural networks learn to play the
 
 The project explores evolutionary neural networks, progressive difficulty training, and performance evaluation by comparing a baseline model against a progressively trained model.
 
+## Gameplay
+
+<p align="center">
+  <img src="assets/result.jpeg" width="600" alt="Flappy Bird AI gameplay">
+</p>
+
 ## Overview
 
 This project combines a Flappy Bird game built with Pygame and an AI agent trained using NEAT.
